@@ -31,6 +31,8 @@ Hint : BETWEEN A and B
 Hint : IN (10,30)
     SELECT * FROM dept WHERE deptno in (10,30);
 
+
+    
 WORKSHEET 2
 1. List the salaries, jobs, and names of the employees who are in department 30. Display the rows in salary order.
     SELECT sal, job, ENAME FROM emp WHERE DEPTNO = 30 ORDER BY SAL ASC;
