@@ -1,7 +1,7 @@
 /* 
+WORKSHEET 1 
 COMPLETED BY ANDRII SKVORTSOV
 
-WORKSHEET 1
 1. Describe the Structure of the EMP Table.
     DESCRIBE emp;
 

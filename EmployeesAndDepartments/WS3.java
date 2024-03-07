@@ -1,7 +1,8 @@
-/*
+    /*
+
+WORKSHEET 3 - OPERATORS
 COMPLETED BY ANDRII SKVORTSOV
 
-WORKSHEET 3
 1. Add a record containing a new department number (50), name
 (PENSIONS) and location (CHICAGO) into the DEPT table.
     INSERT INTO dept (DEPTNO, DNAME, LOC) VALUES ('50', 'PENSIONS', 'CHICAGO');
